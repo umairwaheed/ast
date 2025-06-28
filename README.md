@@ -14,7 +14,7 @@ This project demonstrates how to use Python's built-in `ast` module to parse and
 ### 1. Clone the repo or copy the files
 
 ```bash
-git clone <repo-url>
+git clone git@github.com:umairwaheed/ast-renamer.git
 cd ast-function-renamer
 ```
 
